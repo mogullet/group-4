@@ -14,3 +14,8 @@
 
 ## Dataset used and where it can be obtained:
 We used Kaggle to obtain our dataset. The data set used was Supermarket sales by Aung Pyae: [Supermarket sales, Historical data of sales data in 3 different supermarkets](https://www.kaggle.com/aungpyaeap/supermarket-sales).
+
+## Contributors
+1. Simon Lee
+2. Chidinma Darlington-Njoku
+3. Vivian Omo-Ojugo
