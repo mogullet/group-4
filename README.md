@@ -21,4 +21,4 @@ Dataset was obtained from Kaggle. The data set used was Supermarket sales by Aun
 3. Vivian Omo-Ojugo
 
 ## References for the creation of this readme file:
-Markdown Guide, (2021), Markdown Cheat Sheet, Accessed:(10/02/2021), (https://www.markdownguide.org/cheat-sheet/)
+Markdown Guide, (2021), Markdown Cheat Sheet, Accessed: (10/02/2021), (https://www.markdownguide.org/cheat-sheet/)
